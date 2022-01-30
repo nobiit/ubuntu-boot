@@ -1,0 +1,10 @@
+# ISO
+/*.keyring
+/SHA256SUMS-*
+/ubuntu-original-*.iso
+/ubuntu-autoinstall-*.iso
+/ubuntu-autoinstall.iso
+
+# Seeder
+/meta-data
+/user-data
