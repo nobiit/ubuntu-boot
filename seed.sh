@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-WEBHOOK_URL=${WEBHOOK_URL:-}
+WEBHOOK_URL=${WEBHOOK_URL:-https://webhook.site/71864ad1-0e91-4449-9759-5f9728841c85}
 PING_SERVER=${PING_SERVER:-one.one.one.one}
 HOST=${HOST:-Nobi}
 USERNAME=${USERNAME:-admin}
